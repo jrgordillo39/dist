@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1a44470c404f5855180",
-    "url": "/dist/css/app.6108aa5c.css"
+    "revision": "dbd4971ccc737d8c434b",
+    "url": "/dist/css/app.b9f60580.css"
   },
   {
     "revision": "0729d5950e5c987aecda",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "84a37de85c17f186652a179b1145392f",
     "url": "/dist/fonts/MaterialIcons-Regular.84a37de8.woff"
+  },
+  {
+    "revision": "a38a54df0089bca4f5109fe44f944051",
+    "url": "/dist/fonts/Raleway-ExtraBold.a38a54df.ttf"
   },
   {
     "revision": "580d0778ad254335be45bf58bb449f43",
@@ -300,12 +304,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dist/img/tienda-banner.149b80a9.png"
   },
   {
-    "revision": "64a08e44a17e7a53a02b11f10bcdb272",
+    "revision": "20a25bb8589aedb6e7e8153bf31306c5",
     "url": "/dist/index.html"
   },
   {
-    "revision": "b1a44470c404f5855180",
-    "url": "/dist/js/app.79fb0704.js"
+    "revision": "dbd4971ccc737d8c434b",
+    "url": "/dist/js/app.62877e59.js"
   },
   {
     "revision": "0729d5950e5c987aecda",
