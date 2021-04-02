@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "./precache-manifest.325e7f175cb1a8a7805627dab79cc066.js"
+  "./precache-manifest.4b4345a081e6bf0c18c380c5f0b7208d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Cubamax"});
